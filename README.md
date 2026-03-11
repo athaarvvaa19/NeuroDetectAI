@@ -274,12 +274,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
-
-**Neel**
-- GitHub: [nnnneeeellll](https://github.com/nnnneeeellll)
-- Email: [neelsahasrabudhe@gmail.com]
-- LinkedIn: [Neel Sahasrabudhe](https://www.linkedin.com/in/neel-sahasrabudhe/)
 
 ---
 
@@ -315,4 +309,4 @@ If you encounter any issues or have questions:
 
 ---
 
-Made with ❤️ by Neel | © 2025 NeuroDetect AI
+
